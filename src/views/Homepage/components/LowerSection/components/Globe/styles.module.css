@@ -1,0 +1,123 @@
+.globe {
+  position: relative;
+  margin-top: 5rem;
+}
+
+.c1 {
+  position: absolute;
+  left: -180px;
+  bottom: 25px;
+  z-index: 2;
+}
+
+.c2 {
+  position: absolute;
+  bottom: 60px;
+  left: -95px;
+  z-index: 2;
+}
+
+.c1_c2 {
+  position: absolute;
+  bottom: 40px;
+  left: -140px;
+  z-index: 1;
+}
+
+.multiConnector {
+  position: absolute;
+  top: -70px;
+  left: -50px;
+  z-index: 1;
+}
+
+.c3 {
+  position: absolute;
+  bottom: 313px;
+  left: -47px;
+  z-index: 2;
+}
+
+.c4 {
+  position: absolute;
+  top: -20px;
+  left: 37px;
+  z-index: 2;
+}
+
+.c5 {
+  position: absolute;
+  top: -75px;
+  left: 122px;
+  z-index: 2;
+}
+
+.emoji1 {
+  position: absolute;
+  top: -115px;
+  left: 32px;
+  z-index: 2;
+}
+
+.c6 {
+  position: absolute;
+  top: -97px;
+  left: 305px;
+  z-index: 2;
+}
+
+.emoji2 {
+  position: absolute;
+  top: -102px;
+  right: 75px;
+  z-index: 2;
+}
+
+.c7 {
+  position: absolute;
+  top: -30px;
+  right: 37px;
+  z-index: 2;
+}
+
+.emoji3 {
+  position: absolute;
+  top: 0px;
+  right: -60px;
+  z-index: 2;
+}
+
+.c8 {
+  position: absolute;
+  bottom: 237px;
+  right: -75px;
+  z-index: 2;
+}
+
+.c9c10 {
+  position: absolute;
+  bottom: 265px;
+  right: -130px;
+  z-index: 1;
+}
+
+.c9 {
+  position: absolute;
+  bottom: 335px;
+  right: -120px;
+  z-index: 2;
+}
+
+.c10 {
+  position: absolute;
+  bottom: 253px;
+  right: -157px;
+  z-index: 2;
+}
+
+.c11 {
+  position: absolute;
+  bottom: 100px;
+  right: -85px;
+  z-index: 2;
+}
