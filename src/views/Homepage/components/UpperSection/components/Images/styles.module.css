@@ -1,0 +1,56 @@
+.images {
+  width: 1246.65px;
+  height: 309.89px;
+  position: relative;
+  margin-bottom: 5rem;
+}
+
+.image1 {
+}
+
+.image2 {
+  position: absolute;
+  top: 38px;
+  left: 320px;
+}
+
+.drawing1 {
+  position: absolute;
+  top: 20px;
+  left: 340px;
+}
+
+.image3 {
+  position: absolute;
+  bottom: 0;
+  left: 460px;
+}
+
+.drawing2 {
+  position: absolute;
+  bottom: 40px;
+  left: 460px;
+}
+
+.image4 {
+  position: absolute;
+  bottom: -35px;
+  right: 307px;
+}
+
+.drawing3 {
+  position: absolute;
+  bottom: 85px;
+  right: 425px;
+}
+
+.image5 {
+  position: absolute;
+  right: 180px;
+}
+
+.image6 {
+  position: absolute;
+  right: 0px;
+  bottom: -30px;
+}
